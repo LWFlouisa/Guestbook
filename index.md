@@ -1,12 +1,8 @@
 ## Guestbook
 Welcome to my guestbook page.
 
-## Comments
-<script src="https://utteranc.es/client.js"
-        repo="https://github.com/LWFlouisa/Guestbook.git"
-        issue-term="pathname"
-        label="Guestbook"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+<p align="center">
+  <a href="https://gist.github.com/LWFlouisa/55e7635b02ad528c375ff7c9353338da">
+    <img src="https://github.com/LWFlouisa/SidePoetry/blob/main/images/ProfessorLavender.png?raw=true" alt="Click here to sign my guestbook!">
+  </a>
+</p>
