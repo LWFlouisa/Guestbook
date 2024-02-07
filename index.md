@@ -4,11 +4,9 @@
     body {
       background-color: black;
     }
-
     h1, h2, h3, h4, h5, h6, p, pre, hr, th {
       color: lime;
     }
-
     a {
       color: blue;
     }
